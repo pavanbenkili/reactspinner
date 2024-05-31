@@ -1,0 +1,28 @@
+.header-cont{
+    display: flex;
+    font-weight: bold;
+    color: #555555;
+    justify-content: space-between;
+    margin: 30px 30px;
+}
+.logo{
+    height: 40px;
+    width: 40px;
+}
+.logo-cont{
+    display: flex;
+    align-items: center;
+}
+p{
+    margin-left: 10px;
+}
+ul{
+    list-style-type: none;
+}
+ul li{
+    margin-left: 10px;
+}
+.nav-link{
+    text-decoration: none;
+    color: #555555;
+}
